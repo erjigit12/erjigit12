@@ -20,14 +20,14 @@ Flutter Developer
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erzhigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=erzhigit12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=erjigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erjigit12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erzhigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=erzhigit12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=erjigit12&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=erzhigit12&icon=5&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=erjigit12&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
