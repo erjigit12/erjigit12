@@ -12,9 +12,9 @@ Flutter Developer
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Rest API](https://img.shields.io/badge/Rest_APIs-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Bloc](https://img.shields.io/badge/Bloc-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-%23FF1493.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Rest API](https://img.shields.io/badge/Rest_APIs-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
