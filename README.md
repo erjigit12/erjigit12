@@ -33,9 +33,21 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erjigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=erjigit12&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=erjigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)  
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=erjigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=erjigit12&theme=dark&hide_border=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjigit12&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
