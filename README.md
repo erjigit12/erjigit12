@@ -1,5 +1,5 @@
 # Hi 👋, I'm Erzhigit Mamarasulov  
-A passionate Mobile & Frontend Developer from Kyrgyzstan 🇰🇬  
+A passionate Mobile Developer from Kyrgyzstan 🇰🇬  
 
 ![Profile views](https://komarev.com/ghpvc/?username=erjigit12&color=blue&style=flat)  
 
