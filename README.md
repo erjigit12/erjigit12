@@ -13,11 +13,21 @@
 
 ---
 
-## 🌍 Connect with me:  
+## 🌍 Connect with me:
+
 <p align="left">
-<a href="https://www.linkedin.com/in/erzhigit-mamarasulov-9093b0266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://api.whatsapp.com/send?phone=774298179" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-<a href="https://www.instagram.com/erzhigitmm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/your_twitter" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+</a>
+<a href="https://www.linkedin.com/in/erzhigit-mamarasulov-9093b0266/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="https://www.facebook.com/your_facebook" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+</a>
+<a href="https://www.instagram.com/erzhigitmm/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+</a>
 </p>
 
 ---
