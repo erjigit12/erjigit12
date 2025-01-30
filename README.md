@@ -5,7 +5,7 @@ A passionate Mobile Developer from Kyrgyzstan 🇰🇬
 
 - 🚀 I'm currently working on Flutter projects  
 - 🔥 I'm currently learning Flutter, Dart, Bloc, GetX, Rest APIs  
-- 📫 How to reach me: [Email](mailto:your-email@example.com)  
+- 📫 How to reach me: [Email](mailto:pesfifaer20@gmail.com)  
 
 ---
 
