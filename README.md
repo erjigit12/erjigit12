@@ -23,6 +23,7 @@ A passionate Mobile Developer from Kyrgyzstan 🇰🇬
 ![GetX](https://img.shields.io/badge/GetX-%23FF1493.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Rest API](https://img.shields.io/badge/Rest_APIs-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/restAPI-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
