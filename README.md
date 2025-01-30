@@ -1,5 +1,5 @@
 # Hi 👋, I'm Erzhigit Mamarasulov  
-🚀 A passionate Mobile Developer from Kyrgyzstan 🇰🇬  
+🚀 A passionate Mobile & Frontend Developer from Kyrgyzstan 🇰🇬  
 
 ![Profile views](https://komarev.com/ghpvc/?username=erjigit12&color=blue&style=flat)  
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/erzhigit-mamarasulov-9093b0266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://api.whatsapp.com/send?phone=774298179" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://www.instagram.com/erzhigitmm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/erjigit12" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -25,6 +26,12 @@
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-bloc-an-extensible-library-to-separatepresentation-from-business-logic-logo-color-tal-revivo.png"/>
   <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-api-coding-and-development-flatart-icons-outline-flatarticons.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-api-tool.svg"/>
 </p>
 
 ---
