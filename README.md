@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/erzhigit-mamarasulov-9093b0266/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a href="https://www.facebook.com/your_facebook" target="_blank">
+<a href="https://www.facebook.com/bvjcjcgjf/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
 </a>
 <a href="https://www.instagram.com/erzhigitmm/" target="_blank">
