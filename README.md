@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Flutter Projects**  
 - 🌱 I'm currently learning **Flutter, Dart, Bloc, GetX, Rest APIs**  
-- 📫 How to reach me: **[Email](mailto:your-email@example.com)**  
+- 📫 How to reach me: **[Email](mailto:pesfifaer20@gmail.com)**  
 
 ---
 
@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-api-tool.svg"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-postman-api-flat-flat-juicy-fish.png"/>
 </p>
 
 ---
