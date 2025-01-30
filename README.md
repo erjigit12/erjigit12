@@ -23,14 +23,11 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
   <img src="https://img.icons8.com/color/48/000000/dart.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-bloc-an-extensible-library-to-separatepresentation-from-business-logic-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-api-coding-and-development-flatart-icons-outline-flatarticons.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-postman-api-flat-flat-juicy-fish.png"/>
 </p>
 
 ---
