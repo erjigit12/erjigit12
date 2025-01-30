@@ -8,7 +8,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=erjigit12&color=blue&style=flat)  
 
 - 🔭 I'm currently working on **Flutter Projects**  
-- 🌱 I'm currently learning **Flutter, Dart, Bloc, GetX, Rest APIs**  
+- 🌱 I'm currently learning **Dart, Flutter, Bloc, MobX, Rest APIs, C++, C#, MySQL**  
 - 📫 How to reach me: **pesfifaer20@gmail.com**  
 
 ---
