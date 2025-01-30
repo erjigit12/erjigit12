@@ -1,29 +1,31 @@
-  # Hi 👋, I'm Erzhigit Mamarasulov  
-A passionate Mobile Developer from Kyrgyzstan 🇰🇬  
+# Hi 👋, I'm Erzhigit Mamarasulov  
+🚀 A passionate Mobile Developer from Kyrgyzstan 🇰🇬  
 
 ![Profile views](https://komarev.com/ghpvc/?username=erjigit12&color=blue&style=flat)  
 
-- 🚀 I'm currently working on Flutter projects  
-- 🔥 I'm currently learning Flutter, Dart, Bloc, GetX, Rest APIs  
-- 📫 How to reach me: [Email](mailto:pesfifaer20@gmail.com)  
+- 🔭 I'm currently working on **Flutter Projects**  
+- 🌱 I'm currently learning **Flutter, Dart, Bloc, GetX, Rest APIs**  
+- 📫 How to reach me: **[Email](mailto:your-email@example.com)**  
 
 ---
 
-## 🌐 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erzhigit-mamarasulov-9093b0266/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=774298179)
+## 🌍 Connect with me:  
+<p align="left">
+<a href="https://www.linkedin.com/in/erzhigit-mamarasulov-9093b0266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://api.whatsapp.com/send?phone=774298179" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://github.com/erjigit12" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
 ## 💻 Languages and Tools:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Bloc](https://img.shields.io/badge/Bloc-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-%23FF1493.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Rest API](https://img.shields.io/badge/Rest_APIs-%23000000.svg?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/restAPI-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p align="left"> 
+  <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/dart.png"/>
+  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-bloc-an-extensible-library-to-separatepresentation-from-business-logic-logo-color-tal-revivo.png"/>
+  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-api-coding-and-development-flatart-icons-outline-flatarticons.png"/>
+</p>
 
 ---
 
