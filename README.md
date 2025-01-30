@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Flutter Projects**  
 - 🌱 I'm currently learning **Flutter, Dart, Bloc, GetX, Rest APIs**  
-- 📫 How to reach me: **(mailto:pesfifaer20@gmail.com)**  
+- 📫 How to reach me: **pesfifaer20@gmail.com**  
 
 ---
 
