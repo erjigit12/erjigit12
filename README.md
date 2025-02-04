@@ -59,10 +59,11 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?    username=erjigit12&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=ffffff"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjigit12&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=ffffff"/>
     </td>
   </tr>
 </table>
+
 
 
 
