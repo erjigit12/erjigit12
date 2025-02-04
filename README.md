@@ -49,17 +49,17 @@
 ## 📊 GitHub Stats:
 
 <table>
-    <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjigit12&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=ffffff"/>
-    </td>
-  </tr>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=erjigit12&theme=light&hide_border=false&include_all_commits=false&count_private=true&bg_color=ffffff"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=erjigit12&theme=light&hide_border=false&bg_color=ffffff"/>
+    </td>
+  </tr>
+      <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erjigit12&theme=light&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=ffffff"/>
     </td>
   </tr>
 </table>
