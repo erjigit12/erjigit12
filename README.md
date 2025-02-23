@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Erzhigit Mamarasulov  
-## 🚀 **A passionate Mobile Developer from Kyrgyzstane 🇰🇬** 
+## 🚀 **A passionate Mobile Developer from Kyrgyzstan 🇰🇬** 
 
 </div>
 
