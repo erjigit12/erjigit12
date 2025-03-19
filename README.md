@@ -10,6 +10,7 @@
 - 🔭 I'm currently working on **Flutter Projects**  
 - 🌱 I'm currently learning **Dart, Flutter, BloC, MobX, Rest APIs, C++, C#, MySQL**  
 - 📫 How to reach me: **pesfifaer20@gmail.com**  
+**bvjcjcgjf@gmail.com**
 
 ---
 
